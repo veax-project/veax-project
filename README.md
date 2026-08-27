@@ -25,8 +25,6 @@ page — plus the desktop utilities and developer tools I release along the way.
 |:--|:--|:--|
 | [**MuteBind**](https://github.com/veax-project/MuteBind) | Mute your Discord mic with one key of your choice, even inside a fullscreen game. The PS5 DualSense mute button works too, orange LED included. | `C#` `Win32 hooks` `HID` |
 | [**Volume+**](https://github.com/veax-project/VolumePlus) | A second volume slider that goes from 100% to 500%. It drives Equalizer APO's preamp in real time, so quiet videos and calls can actually get loud. | `C#` `Audio APO` |
-| [**Claude Code — ChatGPT-style**](https://github.com/veax-project/claude-code-chatgpt-style) | A drop-in `CLAUDE.md` that makes Claude Code answer with headings, tables and section anchors instead of flat text. Seven variants, four languages. | `Markdown` `Bash` `PowerShell` |
-| [**claude-cairn**](https://github.com/veax-project/claude-cairn) | Keeps your Claude Code conversations forever, across every account — backed up before they are deleted at 30 days, and readable from any account on the machine. | `JavaScript` `MCP` `TUI` |
 | [**wplace WorldView**](https://github.com/veax-project/wplace-worldview) | A Chrome extension that keeps the drawings on wplace.live visible when you zoom all the way out. | `JavaScript` `Chrome extension` |
 | [**windhawk-translate**](https://github.com/veax-project/windhawk-translate) | Translation files for Windhawk, the Windows customisation platform. A fork I contribute localisation work to. | `Localisation` |
 
