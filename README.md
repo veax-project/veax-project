@@ -1,4 +1,4 @@
-<img alt="veax Project — a browser, a platform, a few tools. Independent developer, Istanbul, Türkiye." src="https://raw.githubusercontent.com/veax-project/veax-project/main/banner.jpg" width="100%">
+<img alt="veax Project — a browser, a platform, a few tools. Independent developer, Istanbul, Türkiye." src="https://raw.githubusercontent.com/veax-project/veax-project/main/banner.jpg" width="1536" height="512">
 
 I build under the name **veax**, on my own, from Istanbul.
 
