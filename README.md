@@ -1,9 +1,6 @@
-<picture>
-  <source srcset="https://raw.githubusercontent.com/veax-project/veax-project/main/banner.svg" type="image/svg+xml">
-  <img alt="veax Project — a browser, a platform, a few tools. Independent developer, Istanbul, Türkiye." src="https://raw.githubusercontent.com/veax-project/veax-project/main/banner.jpg" width="100%">
-</picture>
+<img alt="veax Project — a browser, a platform, a few tools. Independent developer, Istanbul, Türkiye." src="https://raw.githubusercontent.com/veax-project/veax-project/main/banner.jpg" width="100%">
 
-I'm **Yaşar**. I build under the name **veax**, on my own, from Istanbul.
+I build under the name **veax**, on my own, from Istanbul.
 
 Right now that means a Chromium browser and a platform for building a link-in-bio
 page — plus the desktop utilities and developer tools I release along the way.
